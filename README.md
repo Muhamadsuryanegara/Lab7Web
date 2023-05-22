@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Muhamadsuryanegara"><img title="Author" src="https://img.shields.io/badge/Author%20-Muhamad%20Suryanegara-blue.svg?style=flat&logo=github"></a>
+<a href="https://github.com/Muhamadsuryanegara"><img title="Author" src="https://img.shields.io/badge/Author%20-Surya%20Negara-blue.svg?style=flat&logo=github"></a>
 <p align="center">
 
 <p>
